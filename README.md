@@ -14,6 +14,10 @@
 
    `cd SerialPort-scaner`
 
-3. Запустите скрипт:
+3. Установите библиотеку PySerial
+
+   `pip3 install PySerial`
+
+4. Запустите скрипт:
 
    `python3 serialports.py`
